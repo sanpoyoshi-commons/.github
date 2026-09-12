@@ -1,5 +1,6 @@
-## ガバメントAI 源内 OSS（digital-go-jp）のオンプレ派生
-### docker compose up で動く日本語ローカルAI基盤（非公式）。チャット/文書RAG/法令RAG/画像生成/文字起こし
+# genai-*-onpre — ガバメントAI 源内 OSS のオンプレ派生
+### docker compose up で動く日本語ローカルAI基盤（非公式）
+### チャット/文書RAG/法令RAG/画像生成/文字起こし
 
 デジタル庁がOSS公開したガバメントAI「源内」を、クラウドなしの単一ホストで動かすための非公式の派生実装です。
 開発者 1 人が `docker compose up` で立ち上げて実験できることを目指しています。
